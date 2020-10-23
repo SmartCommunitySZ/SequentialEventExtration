@@ -66,22 +66,22 @@ event_extract.py, 思想步骤如下:
 # 三   顺承关系图谱效果
 # 1) 总体图谱样式
 以500个顺承事件, 进行顺承事件图谱展示,结果是一张事件网络,这是一个大的顺承关系图谱,由众多小子图谱构成  
-![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/graph.png)
+![image](https://github.com/SmartCommunitySZ/SequentialEventGraph/blob/master/image/graph.png)
 # 2) 去丽江子图谱
 该子图谱围绕"去丽江旅游"这一出行事件为核心形成的事件群:
-![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/all.png)
+![image](https://github.com/SmartCommunitySZ/SequentialEventGraph/blob/master/image/all.png)
 # 3) 飞机路线子图谱 
 该子图谱显示了选择飞机进行出行形成的事件序列 
-![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/plane.png)
+![image](https://github.com/SmartCommunitySZ/SequentialEventGraph/blob/master/image/plane.png)
 # 4) 火车路线子图谱
 该子图谱显示了选择火车进行出行形成的事件序列
-![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/train.png)
+![image](https://github.com/SmartCommunitySZ/SequentialEventGraph/blob/master/image/train.png)
 # 5) 订酒店事件图谱
 该子图谱描述了一个"预定酒店不愉快事件",从预定到失望到总结,在这条顺承事件链表现出来
-![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/book.png)
+![image](https://github.com/SmartCommunitySZ/SequentialEventGraph/blob/master/image/book.png)
 # 6) 做饭事件图谱
 该子图谱表示了一个"做饭"场景下的顺承事件,感觉也很有意思
-![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/food.png)
+![image](https://github.com/SmartCommunitySZ/SequentialEventGraph/blob/master/image/food.png)
 
 # 总结  
 1) 该项目只是一个基于50W文章领域语料,运用简单提取方式形成的顺承关系图谱demo,还有很多不足  
@@ -92,9 +92,3 @@ event_extract.py, 思想步骤如下:
 6) 基于目前形成的顺承关系图谱还有待于进一步挖掘,可以在此基础上完成更多有价值的信息挖掘  
 
 
-# contact 
-如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，请联系我:  
-邮箱:lhy_in_blcu@126.com  
-csdn:https://blog.csdn.net/lhy2014  
-我的自然语言处理项目: https://liuhuanyong.github.io/  
-刘焕勇，中国科学院软件研究所  
